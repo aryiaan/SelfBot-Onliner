@@ -25,7 +25,7 @@ git clone https://github.com/aryiaan/selfbot-onliner
 Go to the project directory
 
 ```bash
-cd my-project
+cd selfbot-onliner
 ```
 
 Install dependencies
