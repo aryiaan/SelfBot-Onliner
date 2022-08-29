@@ -2,6 +2,7 @@
 # Discord Self Token Onliner 
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Python Version](https://img.shields.io/pypi/pyversions/discord.py-self)
+
 This Is A Simple Resource To Keep Your Account Online Permanently.
 
 
