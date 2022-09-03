@@ -19,13 +19,13 @@ This Is A Simple Resource To Keep Your Account Online Permanently.
 Clone the project
 
 ```bash
-git clone https://github.com/aryiaan/selfbot-onliner
+git clone https://github.com/aryiaan/SelfBot-Onliner
 ```
 
 Go to the project directory
 
 ```bash
-cd selfbot-onliner
+cd SelfBot-Onliner
 ```
 
 Install dependencies
