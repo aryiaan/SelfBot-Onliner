@@ -48,7 +48,7 @@ Wrtite the emoji that you want
 # line 6 => token = "your token"
 Put Your Account Token
 ```
-Start the server
+Start the bot
 
 ```bash
 python token_onliner.py
