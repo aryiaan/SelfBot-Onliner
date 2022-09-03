@@ -31,7 +31,7 @@ cd SelfBot-Onliner
 Install dependencies
 
 ```bash
-pip install discord.py-self
+pip install discord.py-self colorama
 ```
 
 Config Main file 
@@ -60,7 +60,7 @@ python token_onliner.py
 Install my-project with pip
 
 ```bash
-  pip install discord.py-self
+  pip install discord.py-self colorama
 ```
     
 ## Usage
